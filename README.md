@@ -16,3 +16,4 @@
 - git remote add origin
 - git remote show origin
 - git push -u origin master
+- tsc --init
