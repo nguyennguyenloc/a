@@ -1,0 +1,8 @@
+{
+  "name": "a",
+  "version": "1.0.0",
+  "description": "Demo project part 1",
+  "main": "src/server.ts",
+  "author": "Nguyen Loc <nnloc123@gmail.com>",
+  "license": "MIT"
+}
